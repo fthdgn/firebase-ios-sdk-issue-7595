@@ -1,0 +1,4 @@
+#include "Pods/Target Support Files/Pods-app/Pods-app.debug.xcconfig"
+#include "_Common.xcconfig"
+#include "_Prod.xcconfig"
+#include "__Debug.xcconfig"

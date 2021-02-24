@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+xcuserdata/
+Pods/
+*.generated.swift
